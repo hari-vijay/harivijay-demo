@@ -1,4 +1,1 @@
-# harivijay-demo
-this is my first Repository.
-<br>
-Author-harivijay(demo)
+this contains a code of TIKTACTOE GAME
